@@ -15,3 +15,8 @@
 <img src="https://raw.githubusercontent.com/Junaedie7/junaedie7.github.io/main/IMG_20221014_093354.jpg">
 <img src="https://raw.githubusercontent.com/Junaedie7/junaedie7.github.io/main/1651495215583-1.jpg">
 <img src="https://raw.githubusercontent.com/Junaedie7/junaedie7.github.io/main/1651495215544.jpg">
+<video width="320" height="240" autoplay muted>
+  <source src="VID-20220628-WA0054L1380376.mp4" type="video/mp4">
+  <source src="VID-20220411-WA0023L1275925.mp4" type="video/ogg">
+Your browser does not support the video tag.
+</video>
