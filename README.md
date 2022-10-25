@@ -15,4 +15,4 @@
 <img src="https://raw.githubusercontent.com/Junaedie7/junaedie7.github.io/main/IMG_20221014_093354.jpg">
 <img src="https://raw.githubusercontent.com/Junaedie7/junaedie7.github.io/main/1651495215583-1.jpg">
 <img src="https://raw.githubusercontent.com/Junaedie7/junaedie7.github.io/main/1651495215544.jpg">
-
+<img src="https://raw.githubusercontent.com/Junaedie7/junaedie7.github.io/main/IMG_20221025_195212.jpg">
